@@ -19,25 +19,23 @@ Welcome to my SQL learning repository! This repo documents my progress, notes, a
 - 🚧 Stored Procedures & Triggers (coming soon)
 
 ---
+🛠️ Tools Used
+MySQL / SQLite
 
-## 🧪 Sample Practice Tables
+DB Fiddle
 
-```sql
-CREATE TABLE EmployeeDetail (
-    EmpID INT PRIMARY KEY,
-    EmpName VARCHAR(20),
-    EmpGender VARCHAR(20),
-    Age INT,
-    EmpDept VARCHAR(20),
-    Project VARCHAR(20),
-    logged_hrs INT,
-    Salary INT,
-    Experience_in_years INT
-);
-| Date       | Topic                 | Status |
-| ---------- | --------------------- | ------ |
-| 2025-08-01 | Basic SELECT & WHERE  | ✅ Done |
-| 2025-08-02 | GROUP BY & Aggregates | ✅ Done |
-| 2025-08-03 | Joins                 | ✅ Done |
-| 2025-08-04 | Subqueries & HAVING   | ✅ Done |
-| ...        | ...                   | 🚧     |
+SQLZoo
+
+W3Schools SQL Editor
+
+🚀 Goal
+Build strong SQL foundations to:
+
+Analyze data efficiently
+
+Prepare for backend/data-related interviews
+
+Work with real-world databases in full-stack & data science projects
+
+🙌 Contributions
+Spotted a mistake or want to add something cool? Feel free to submit a pull request or open an issue!
