@@ -1,41 +1,71 @@
-# 🧠 SQL Learning Journey
+# 📘 Daily SQL Learning Log
 
-Welcome to my SQL learning repository! This repo documents my progress, notes, and practice queries as I explore the world of **Structured Query Language (SQL)**. Whether you're a beginner or refreshing your skills, feel free to follow along!
+Welcome! This repository is dedicated to my **daily learning journey with SQL** 🧠.  
+I'm using this space to **strengthen my SQL skills**, track progress, and stay consistent with hands-on practice.
+
+---
+
+## 🎯 Objective
+
+To build a solid foundation in SQL through **daily practice** and gradually master advanced concepts for use in:
+
+- 💻 Backend Development  
+- 🛠️ Database Design
+- 🧪 Data Analysis   
+- 📊 Real-World Data Projects
 
 ---
 
-## 📚 Topics Covered
+## 📅 Daily Progress Tracker
 
-- ✅ Basic SQL Syntax
-- ✅ Creating Databases & Tables
-- ✅ Inserting, Updating, Deleting Data
-- ✅ Filtering with `WHERE`, `IN`, `LIKE`, `BETWEEN`
-- ✅ Sorting and Limiting Results
-- ✅ Aggregation with `SUM`, `AVG`, `COUNT`, `MIN`, `MAX`
-- ✅ Grouping with `GROUP BY` and `HAVING`
-- ✅ Joins: `INNER`, `LEFT`, `RIGHT`, `FULL OUTER`
-- ✅ Subqueries
-- ✅ Views and Indexes
-- 🚧 Stored Procedures & Triggers (coming soon)
+| ✅ Topic Studied                        | 📌 Description                              | 🔄 Status   |
+|----------------------------------------|---------------------------------------------|-------------|
+| SELECT, WHERE, and Filtering           | Basic data retrieval and conditions         | ✅ Done      |
+| GROUP BY & Aggregates                  | COUNT, AVG, SUM, etc.                       | ✅ Done      |
+| ORDER BY, LIMIT                        | Sorting and limiting results                | ✅ Done      |
+| JOINs (INNER, LEFT)                    | Combining data from multiple tables         | ✅ Done      |
+| Subqueries and Nested SELECT           | Using queries inside queries                | ✅ Done      |
+| HAVING clause & Advanced Aggregates    | Filtering grouped results                   | ✅ Done      |
+| ...                                    | ...                                         | 🔄 Ongoing   |
+
+> 💡 **Goal**: Write at least one SQL query every day based on a real-world scenario or challenge.
 
 ---
-🛠️ Tools Used
-MySQL / SQLite
 
-DB Fiddle
+## 💡 What I’m Learning
 
-SQLZoo
+- 🔍 How to **design efficient and optimized SQL queries**
+- 🧩 How to **join and analyze** complex data sets
+- 📈 How to **identify trends and patterns** using queries
+- 🚀 How to **build reusable and scalable database logic**
+- 🛡️ How to **apply best practices** and indexing for performance
 
-W3Schools SQL Editor
+---
 
-🚀 Goal
-Build strong SQL foundations to:
+## 🛠️ Tools & Resources
 
-Analyze data efficiently
+- 🔗 **DB Fiddle** → [https://www.db-fiddle.com](https://www.db-fiddle.com)
+- 🔗 **W3Schools SQL Editor** → [https://www.w3schools.com/sql/trysql.asp](https://www.w3schools.com/sql/trysql.asp)
+- 🧰 **MySQL Workbench** / **SQLite**
 
-Prepare for backend/data-related interviews
+---
 
-Work with real-world databases in full-stack & data science projects
+## 🚀 Long-Term Goals
 
-🙌 Contributions
-Spotted a mistake or want to add something cool? Feel free to submit a pull request or open an issue!
+- ✅ Master all **core SQL concepts**
+- ✅ Solve **100+ SQL challenges**
+- ✅ Build **mini-projects** with real datasets
+- 📘 Learn **advanced SQL topics**: window functions, CTEs, views
+- 🌐 Contribute to **open-source or real-world SQL projects**
+
+---
+
+## 🙌 Stay Connected
+
+If you're also learning SQL:
+
+- 🤝 Fork this repo
+- 📌 Add your own learning logs
+- 💬 Submit suggestions or issues
+- 🌱 Let’s grow together in SQL!
+
